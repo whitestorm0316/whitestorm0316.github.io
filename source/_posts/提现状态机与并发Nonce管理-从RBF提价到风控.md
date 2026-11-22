@@ -1,1 +1,75 @@
-LS0tCnRpdGxlOiDmj5DnjrDnirbmgIHmnLrkuI7lubblj5EgTm9uY2Ug566h55CG77ya5LuOIFJCRiDmj5Dku7fliLDpo47mjqcKZGF0ZTogMjAyNi0wOS0yMCAyMDo0NTowMAp0YWdzOgogIC0gTm9uY2UKICAtIFJCRgogIC0g5o+Q546wCiAgLSDnirbmgIHmnLoKY2F0ZWdvcmllczoKICAtIFdlYjMKLS0tCgojIOaPkOeOsOeKtuaAgeacuuS4juW5tuWPkSBOb25jZSDnrqHnkIbvvJrku44gUkJGIOaPkOS7t+WIsOmjjuaOpwoKPiDmj5DnjrDmmK/pkrHljIXmnI3liqHnq6/mnIDlrrnmmJPlh7rkuovnmoTlnLDmlrnvvJpOb25jZSDlhrLnqoHkvJrorqnkuqTmmJPkupLnm7jopobnm5bvvIxQZW5kaW5nIOWNoeS9j+S8muiuqeeUqOaIt+S7peS4uumSseS4ouS6huOAggoKIyMg5LiA44CB5o+Q546w54q25oCB5py6CgpgYGB0ZXh0CuWIm+W7uiDihpIg562+5ZCNIOKGkiDlub/mkq0g4oaSIOehruiupAogICAgICAgICAgICAgIOKUgiAgICAgICDilIIKICAgICAgICAgICAgICDilJTilIDihpIg5aSx6LSlIOKGkOKUmApgYGAKCuavj+S4gOatpemDveacieaYjuehrueahOi/m+WFpeadoeS7tuWSjOi2heaXtuaXtumXtOOAgueKtuaAgeWtmOWCqOWcqOaVsOaNruW6k++8jOaJgOacieWGmeaTjeS9nOmDveW4pueKtuaAgeadoeS7tu+8jOmBv+WFjeW5tuWPkeS4i+mHjeWkjeetvuWQjeaIlumHjeWkjeW5v+aSreOAggoKIyMg5LqM44CB6LSm5oi357qnIE5vbmNlIOWIhumFjQoK5ZCM5LiA5Liq54Ot6ZKx5YyF5Zyw5Z2A5Y+R6LW355qE5aSa56yU5Lqk5piT77yM5b+F6aG75L2/55So6L+e57ut5LiU5ZSv5LiA55qEIG5vbmNl44CC5bm25Y+R5o+Q546w5pe25aaC5p6c5Lik5Liq6K+35rGC5ou/5Yiw5ZCM5LiA5LiqIG5vbmNl77yM5ZCO5bm/5pKt55qE5Lqk5piT5Lya6KaG55uW5YmN5LiA56yU4oCU4oCU55So5oi3IEEg55qE5o+Q546w6KKr55So5oi3IEIg55qE5Lqk5piT6aG25o6J77yM6LSm5LiK5Y205Lik56yU6YO95omj5LqG44CCCgrop6PlhrPmlrnmoYjmmK/mioogbm9uY2Ug5YiG6YWN5pS25b2S5pWw5o2u5bqT77yaCgpgYGBzcWwKLS0g5Zyo5LqL5Yqh5YaF5Y+W5b2T5YmN5bey5YiG6YWN55qE5pyA5aSnIG5vbmNlICsgMQpTRUxFQ1QgQ09BTEVTQ0UoTUFYKG5vbmNlKSwgLTEpICsgMQpGUk9NIHdpdGhkcmF3YWxfb3JkZXIKV0hFUkUgd2FsbGV0X2FkZHJlc3MgPSA/IEZPUiBVUERBVEU7CmBgYAoK5LqL5YqhICsg6KGM6ZSBICsgYFVOSVFVRSh3YWxsZXRfYWRkcmVzcywgbm9uY2UpYCDnuqbmnZ/vvIzkuInph43kv53or4Hmr4/kuKrlnLDlnYDmr4/kuKogbm9uY2Ug5Y+q6KKr5YiG6YWN5LiA5qyh44CC5YiG6YWN5ZCO56uL5Yi76JC95bqT5Li644CM5bey5YiG6YWN44CN54q25oCB77yM5Y2z5L2/6L+b56iL6YeN5ZCv5Lmf5LiN5Lya6YeN5paw5YiG6YWN5ZCM5LiA5Liq5YC844CCCgojIyDkuInjgIFQZW5kaW5nIOi2heaXtuS4jiBSQkYg5o+Q5Lu3CgrnvZHnu5zmi6XloLXml7bvvIzmjInlvZPliY0gZ2FzIHByaWNlIOWPkeWHuueahOS6pOaYk+WPr+iDvemVv+aXtumXtCBQZW5kaW5n44CC5aSE55CG5pa55byP5pivICoqUkJG77yIUmVwbGFjZS1CeS1GZWXvvIkqKu+8mgoKMS4g5omr5o+P6LaF6L+H6ZiI5YC85LuN5pyq56Gu6K6k55qE5Lqk5piT77ybCjIuIOWkjeeUqOWOnyBub25jZe+8jOaPkOmrmCBnYXMgcHJpY2Ug6YeN5paw562+5ZCN5bm/5pKt77ybCjMuIOabtOaWsOacrOWcsOS6pOaYk+eahCBoYXNoIOS4jiBnYXMg5oiQ5pys6K6w5b2V44CCCgrlm6DkuLogbm9uY2Ug5LiN5Y+Y77yM6IqC54K55Lya5oqK5paw5Lqk5piT6KeG5Li65a+55pen5Lqk5piT55qE5pu/5o2i77yM5LiN5Lya5Y+M6Iqx44CC5o+Q5Lu3562W55Wl6K6+572u5LiK6ZmQ77yM6YG/5YWNIGdhcyDku7fmoLzlvILluLjml7bml6DpmZDliqDku7fvvJvov57nu63mj5Dku7flpLHotKXliJnovazkurrlt6Xku4vlhaXvvIzlkIzml7boh6rliqjmmoLlgZzor6XlnLDlnYDnmoTlkI7nu63mj5DnjrDjgIIKCiMjIOWbm+OAgemjjuaOp++8mumZkOmineOAgeeZveWQjeWNleS4jue0p+aApeaaguWBnAoKLSAqKumZkOminSoq77ya5Y2V56yU5LiK6ZmQ44CB5Y2V5pel57Sv6K6h5LiK6ZmQ44CB5oyJ55So5oi3562J57qn5YiG5qGj77yM5YWo6YOo5Zyo54q25oCB5py65YWl5Y+j5qCh6aqM44CCCi0gKirlnLDlnYDnmb3lkI3ljZUqKu+8muaWsOWcsOWdgOmmluasoeaPkOeOsOi/m+WFpeW7tui/n+mYn+WIl++8jOmZjeS9juiiq+ebl+mjjumZqeOAggotICoq57Sn5oCl5pqC5YGcKirvvJrkuIDkuKrlvIDlhbPliIfmlq3lhajpg6jmj5DnjrDlub/mkq3vvIzlt7Lnu4/liJvlu7rnmoTorqLljZXkv53mjIHkuI3lj5jvvIzkuI3lvbHlk43lkI7nu63mgaLlpI3lpITnkIbjgIIKCui/meS4iemhuemDveaYr+OAjOS+v+WunOS9huacieaViOOAjeeahOmYsuW+oeKAlOKAlOWunueOsOaIkOacrOW+iOS9ju+8jOWHuuS6i+aXtuiDveS6ieWPluWIsOS6uuW3peWIpOaWreeahOaXtumXtOOAggoKIyMg5LqU44CB6ZO+5LiK6ZO+5LiL5Y+M5ZCR5a+56LSmCgrlr7notKbkuI3mmK/lj6rmn6XjgIzkuqTmmJPmmK/lkKbmiJDlip/jgI3vvIzogIzmmK/lm5vkuKrmlrnlkJHkuqTlj4nmoLjlr7nvvJoKCnwg5qC45a+56aG5IHwg5Y+R546w55qE6Zeu6aKYIHwKfC0tLXwtLS18Cnwg5Lqk5piT5Zue5omnIOKGlCDmnKzlnLDorqLljZXnirbmgIEgfCDnirbmgIHlvILluLjjgIHlgYfmiJDlip8gfAp8IOWMuuWdl+S6i+S7tiDihpQg5YaF6YOo5rWB5rC0IHwg5ryP5omr44CB6YeN5aSN5YWl6LSmIHwKfCDliY3luo/ljLrlnZflk4jluIwg4oaUIOacrOWcsOmrmOW6piB8IFJlb3JnIOmBl+eVmSB8CnwgR2FzIOWunumZhea2iOiAlyDihpQg5bmz5Y+w5oiQ5pys6K6w6LSmIHwg5oiQ5pys5beu5byCIHwKCuW3ruW8guS4gOW+i+i/m+WFpeaMguWNleaguOafpea1geeoi++8muagh+iusOW8guW4uOOAgeS6uuW3peehruiupOOAgeW/heimgeaXtui1sOiwg+aVtOWNle+8jCoq57ud5LiN55u05o6l5L+u5pS55Y6G5Y+y6LSm5YqhKirjgILov5nmnaHop4TliJnlkoznu5Pnrpfns7vnu5/nmoTljp/liJnlrozlhajkuIDoh7TigJTigJTljoblj7LmmK/or4Hmja7vvIzkuI3mmK/lj6/ku6Xpmo/miYvmlLnnmoTojYnnqL/jgIIKCiMjIOWwj+e7kwoK5o+Q546w6ZO+6Lev55qE5YWz6ZSu6K+N5piv44CM5Liy6KGM5YyW44CN77yabm9uY2Ug5Liy6KGM5YiG6YWN44CB54q25oCB5Liy6KGM5rWB6L2s44CB5beu5byC5Liy6KGM5aSE55CG44CC5bm25Y+R5bim5p2l55qE5oCn6IO95pS255uK6L+c5LiN5aaC5LiA5qyh5oCn6LWE5Lqn5o2f5aSx5p2l5b6X6LS177yM5a6B5Y+v5oWi5LiA54K577yM5Lmf5LiN6IO96K6p5Lik56yU5Lqk5piT6Lip5ZCM5LiA5LiqIG5vbmNl44CCCg==
+---
+title: 提现状态机与并发 Nonce 管理：从 RBF 提价到风控
+date: 2026-09-20 20:45:00
+tags:
+  - Nonce
+  - RBF
+  - 提现
+  - 状态机
+categories:
+  - Web3
+---
+
+# 提现状态机与并发 Nonce 管理：从 RBF 提价到风控
+
+> 提现是钱包服务端最容易出事的地方：Nonce 冲突会让交易互相覆盖，Pending 卡住会让用户以为钱丢了。
+
+## 一、提现状态机
+
+```text
+创建 → 签名 → 广播 → 确认
+              │       │
+              └─→ 失败 ←┘
+```
+
+每一步都有明确的进入条件和超时时间。状态存储在数据库，所有写操作都带状态条件，避免并发下重复签名或重复广播。
+
+## 二、账户级 Nonce 分配
+
+同一个热钱包地址发起的多笔交易，必须使用连续且唯一的 nonce。并发提现时如果两个请求拿到同一个 nonce，后广播的交易会覆盖前一笔——用户 A 的提现被用户 B 的交易顶掉，账上却两笔都扣了。
+
+解决方案是把 nonce 分配收归数据库：
+
+```sql
+-- 在事务内取当前已分配的最大 nonce + 1
+SELECT COALESCE(MAX(nonce), -1) + 1
+FROM withdrawal_order
+WHERE wallet_address = ? FOR UPDATE;
+```
+
+事务 + 行锁 + `UNIQUE(wallet_address, nonce)` 约束，三重保证每个地址每个 nonce 只被分配一次。分配后立刻落库为「已分配」状态，即使进程重启也不会重新分配同一个值。
+
+## 三、Pending 超时与 RBF 提价
+
+网络拥堵时，按当前 gas price 发出的交易可能长时间 Pending。处理方式是 **RBF（Replace-By-Fee）**：
+
+1. 扫描超过阈值仍未确认的交易；
+2. 复用原 nonce，提高 gas price 重新签名广播；
+3. 更新本地交易的 hash 与 gas 成本记录。
+
+因为 nonce 不变，节点会把新交易视为对旧交易的替换，不会双花。提价策略设置上限，避免 gas 价格异常时无限加价；连续提价失败则转人工介入，同时自动暂停该地址的后续提现。
+
+## 四、风控：限额、白名单与紧急暂停
+
+- **限额**：单笔上限、单日累计上限、按用户等级分档，全部在状态机入口校验。
+- **地址白名单**：新地址首次提现进入延迟队列，降低被盗风险。
+- **紧急暂停**：一个开关切断全部提现广播，已经创建的订单保持不变，不影响后续恢复处理。
+
+这三项都是「便宜但有效」的防御——实现成本很低，出事时能争取到人工判断的时间。
+
+## 五、链上链下双向对账
+
+对账不是只查「交易是否成功」，而是四个方向交叉核对：
+
+| 核对项 | 发现的问题 |
+|---|---|
+| 交易回执 ↔ 本地订单状态 | 状态异常、假成功 |
+| 区块事件 ↔ 内部流水 | 漏扫、重复入账 |
+| 前序区块哈希 ↔ 本地高度 | Reorg 遗留 |
+| Gas 实际消耗 ↔ 平台成本记账 | 成本差异 |
+
+差异一律进入挂单核查流程：标记异常、人工确认、必要时走调整单，**绝不直接修改历史账务**。这条规则和结算系统的原则完全一致——历史是证据，不是可以随手改的草稿。
+
+## 小结
+
+提现链路的关键词是「串行化」：nonce 串行分配、状态串行流转、差异串行处理。并发带来的性能收益远不如一次性资产损失来得贵，宁可慢一点，也不能让两笔交易踩同一个 nonce。
